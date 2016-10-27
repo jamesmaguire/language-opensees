@@ -1,6 +1,6 @@
 # language-opensees package
 
-This package provides syntax highlighting and auto-completion for OpenSees tcl scripts in Atom text editor.
+Atom text editor plugin that provides syntax highlighting and auto-completion for OpenSees tcl scripts.
 
 ## OpenSees commands
 This is a list of the currently supported OpenSees functions for syntax highlighting. Most of these also have snippets for autocompletion.
