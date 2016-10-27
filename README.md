@@ -5,7 +5,7 @@ This package provides syntax highlighting and auto-completion for OpenSees tcl s
 ## OpenSees commands
 This is a list of the currently supported OpenSees functions for syntax highlighting. Most of these also have snippets for autocompletion.
 
-###### Modelling commands
+### Modelling commands
 - model
 - node
 - element
@@ -25,7 +25,7 @@ This is a list of the currently supported OpenSees functions for syntax highligh
   - patch
   - layer
 
-###### Analysis commands
+### Analysis commands
 - constraints
 - numberer
 - system
@@ -36,7 +36,7 @@ This is a list of the currently supported OpenSees functions for syntax highligh
 - eigen
 - analyze
 
-###### Output commands
+### Output commands
 - eleNodes
 - eleResponse
 - getEleTags
@@ -55,7 +55,7 @@ This is a list of the currently supported OpenSees functions for syntax highligh
 - recorder, record
 
 
-###### Misc commands
+### Misc commands
 - exit
 - loadConst
 - remove
