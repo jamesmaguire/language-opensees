@@ -6,6 +6,9 @@
     "atom": ">0.50.0"
   },
   "dependencies": {},
-  "repository": "https://github.com/jamesmaj/language-opensees",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/JamesMaj/language-opensees."
+  },
   "license": "MIT"
 }
