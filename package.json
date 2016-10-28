@@ -1,6 +1,6 @@
 {
   "name": "language-opensees",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Syntax highlighting and autocompletion for OpenSees tcl scripts in Atom",
   "engines": {
     "atom": ">0.50.0"
