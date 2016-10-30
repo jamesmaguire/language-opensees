@@ -5,16 +5,16 @@ Atom text editor package that provides syntax highlighting and auto-completion f
 ## Autocompletion
 Includes autocompletion support for common OpenSees commands.
 
-![pattern snippets](https://github.com/JamesMaj/language-opensees/tree/master/screenshots/pattern-snippets.png)
+![pattern snippets](screenshots/pattern-snippets.png)
 
 Starting a new model from scratch? Use the template snippet to easily get started:
 
-![template snippet suggestion](https://github.com/JamesMaj/language-opensees/tree/master/screenshots/template-snippet-suggestion.png)
+![template snippet suggestion](screenshots/template-snippet-suggestion.png)
 
-![template snippet expanded](https://github.com/JamesMaj/language-opensees/tree/master/screenshots/template-snippet-expanded.png)
+![template snippet expanded](screenshots/template-snippet-expanded.png)
 
 You can find links to the OpenSees documentation with the Link snippet:
-![link snippets](https://github.com/JamesMaj/language-opensees/tree/master/screenshots/link-snippets.png)
+![link snippets](screenshots/link-snippets.png)
 
 
 ## Supported OpenSees commands
