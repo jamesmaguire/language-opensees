@@ -1,6 +1,6 @@
 '.source.opensees':
   'editor':
     'increaseIndentPattern': '\\{[^"\'}]*$'
-'.source.antlr':
-  'editor':
-    'foldEndPattern': '^\\s*\\}'
+    'autoIndentOnPaste': false
+    'softTabs': true
+    'commentStart': '# '
