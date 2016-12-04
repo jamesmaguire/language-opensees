@@ -16,6 +16,12 @@
   'node...':
     'prefix': 'node'
     'body': 'node $nodeTag (ndm $coords) <-mass (ndf $massValues)>'
+  'mass...':
+    'prefix': 'mass'
+    'body': 'mass $nodeTag (ndf $massValues)'
+  'region...':
+    'prefix': 'region'
+    'body': 'region $regTag <-ele ($ele1 $ele2 ...)> <-eleRange $startEle $endEle> <-node ($node1 $node2 ...)> <-nodeRange $startNode $endNode> <-node all> <-rayleigh $alphaM $betaK $betaKinit $betaKcomm>'
   'rayleigh...':
     'prefix': 'rayleigh'
     'body': 'rayleigh $alphaM $betaK $betaKinit $betaKcomm'
